@@ -1,6 +1,8 @@
 # 👋 Hello, I am [Sotirios Tzamaras][website]
 
-I am a software engineer who strives to build rigorous and intelligent systems through carefully crafted code. I consider himself a 'forever student', eager to build on my academic foundations and professional development.
+I am a software engineer who strives to build rigorous and intelligent systems through carefully crafted code. I consider myself a 'forever student', eager to build on my academic foundations and professional development.
+
+Since graduating with a B.Sc. of Computer Engineering from the Department of Informatics and Telecommunications at the University of Ioannina in 2020, I have been passionately interested in Artificial Intelligence as well as robotic applications and Cyber-Physical Systems. 
 
 - 🔭 I’m currently working on a quadruped robot project!
 - 🌱 I’m currently learning Machine Learning and robotics.
